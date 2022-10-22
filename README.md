@@ -1,1 +1,1 @@
-# creating-my-firdt-grid
+# creating-my-first-grid
